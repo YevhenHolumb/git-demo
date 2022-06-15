@@ -1,0 +1,2 @@
+ABCD -first string
+EFG - second string
